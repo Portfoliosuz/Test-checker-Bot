@@ -1,0 +1,3 @@
+token = '*'
+kanallar = [["Kanal nomi","Kanal ssilkasi"],]
+# Unutmang Botingiz yuqoridagi kanalingizda admin xuquqiga ega bo`lishi lozim...
